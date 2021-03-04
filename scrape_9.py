@@ -4,7 +4,6 @@ import requests # For getting data off the internet
 from time import sleep # For slowing our script down 
 from bs4 import BeautifulSoup # For parsing HTML
 
-. 
 def scrape_detail(url):
     """
     This function takes a URL to a prisoner detail page and extracts
